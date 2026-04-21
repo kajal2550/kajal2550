@@ -1,5 +1,4 @@
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Kajal%20Kumari&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Fullstack%20%26%20DevOps%20Developer&descSize=20&descAlignY=58&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Kajal%20Kumari&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Fullstack%20DevOps%20Developer&descSize=20&descAlignY=58&descColor=a78bfa" />
 
 ---
 
