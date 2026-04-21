@@ -1,16 +1,24 @@
-## Hi there 👋
+ <h1 align="center">Hi 👋, I'm Kajal Kumari</h1>
+<h3 align="center">Full Stack Developer 🚀 | DevOps Learner</h3>
 
-<!--
-**kajal2550/kajal2550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🌱 Learning Docker & DevOps  
+- 💻 Skilled in Java, HTML, CSS, JavaScript  
+- 🎯 Goal: Become a Software Engineer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+https://skillicons.dev/icons?i=java,docker,html,css,js
+
+---
+
+### 📊 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=kajal2550&show_icons=true&theme=tokyonight
+
+---
+
+### 🔥 Streak
+https://github-readme-streak-stats.herokuapp.com/?user=kajal2550&theme=tokyonight
