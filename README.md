@@ -1,10 +1,10 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Kajal%20Kumari&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Fullstack%20DevOps%20Developer&descSize=20&descAlignY=58&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=270&section=header&text=Kajal%20Kumari&fontSize=70&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Fullstack+DevOps+Developer&descSize=22&descAlignY=62&descColor=a78bfa"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=🚀+Building+Full+Stack+Projects;🐳+Learning+DevOps+%26+Docker;💡+Solving+DSA+on+LeetCode;🔥+Consistency+is+my+power" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=🚀+Building+Full+Stack+Projects;🐳+Learning+DevOps+%26+Docker;💡+Solving+DSA+on+LeetCode;🔥+Consistency+is+my+power"/>
 
 <br/>
 
