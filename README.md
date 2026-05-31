@@ -103,7 +103,7 @@ email      : kajalrajput808476566@gmail.com
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=storm309&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kajal2550&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 
